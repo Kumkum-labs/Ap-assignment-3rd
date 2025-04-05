@@ -60,5 +60,13 @@ class TrafficLight {
     }
 }
 
+//output
+PS C:\Users\kumku\OneDrive\Desktop\git\ap assignment>  & 'C:\Program Files\Java\jre1.8.0_441\bin\java.exe' '-cp' 'C:\Users\kumku\AppData\Roaming\Code\User\workspaceStorage\c7396c4d866a242fe6158ae5b38823d0\redhat.java\jdt_ws\ap assignment_20a13684\bin' 'TrafficLight' 
+Current color: Red, Duration: 60 seconds
+The light is Red. Stop.
+Traffic light color changed to Green with duration 45 seconds.
+Current color: Green, Duration: 45 seconds
+The light is Green. Go.
+PS C:\Users\kumku\OneDrive\Desktop\git\ap assignment> 
 
  
